@@ -28,3 +28,5 @@ In addition there are some cards that are considered Premium cards.   In a GUI b
 # Program Description
 In this assignment you will construct an ArrayList that can manage a set of Cards which includes both normal and premium cards.   You will implement the various methods that are required in order to make the ArrayList function. 
 A sample program will be provided for you to test with, but you may want to alter it to check different functionality of your ArrayList.
+
+# Specific instructions and style guidelines/grading are in the PDF
